@@ -1,2 +1,5 @@
-
 node_modules/
+webpack.config.js
+firebase.json
+*.cache
+.firebase/hosting..cache
